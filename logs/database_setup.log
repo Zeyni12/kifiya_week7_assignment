@@ -1,0 +1,93 @@
+2025-01-31 11:02:10,074 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 11:02:10,086 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 11:02:10,107 - INFO - ✅ Missing values filled.
+2025-01-31 11:02:10,107 - INFO - ✅ Text columns standardized.
+2025-01-31 11:02:10,107 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 11:02:10,119 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-01-31 11:02:10,121 - INFO - ✅ Data cleaning completed successfully.
+2025-01-31 11:35:23,940 - ERROR - ❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 11:37:03,760 - ERROR - ❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 11:38:18,024 - ERROR - ❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 11:41:29,030 - ERROR - ❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 11:44:34,579 - ERROR - ❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 11:45:12,586 - ERROR - ❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 11:45:37,845 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 11:45:37,845 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 11:45:37,862 - INFO - ✅ Text columns standardized.
+2025-01-31 11:45:37,862 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 11:45:37,862 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-01-31 11:45:37,862 - INFO - ✅ Data cleaning completed successfully.
+2025-01-31 11:47:59,242 - ERROR - ❌ Error saving cleaned data: Cannot save file into a non-existent directory: '..\data'
+2025-01-31 11:49:26,321 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-01-31 11:59:05,206 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 12:11:53,612 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 12:16:02,408 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 12:20:09,793 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 12:20:44,601 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 12:20:44,608 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 12:20:44,615 - INFO - ✅ Text columns standardized.
+2025-01-31 12:20:44,620 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 12:20:44,624 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-01-31 12:20:44,628 - INFO - ✅ Data cleaning completed successfully.
+2025-01-31 12:21:01,390 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-01-31 12:21:07,460 - ERROR - ❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 13:27:58,104 - ERROR - ❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 13:48:16,641 - ERROR - ❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 15:24:23,065 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 15:24:23,065 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 15:24:23,079 - INFO - ✅ Text columns standardized.
+2025-01-31 15:24:23,083 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 15:24:23,088 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-01-31 15:24:23,089 - INFO - ✅ Data cleaning completed successfully.
+2025-01-31 15:24:33,910 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-01-31 15:24:39,035 - ERROR - ❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 15:53:01,358 - ERROR - ❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 16:01:51,356 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 16:01:51,364 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 16:01:51,373 - INFO - ✅ Text columns standardized.
+2025-01-31 16:01:51,374 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 16:01:51,374 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-01-31 16:01:51,382 - INFO - ✅ Data cleaning completed successfully.
+2025-01-31 16:02:10,088 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-01-31 16:02:14,083 - ERROR - ❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "telegram_raw_data" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 16:07:04,110 - INFO - ✅ Successfully connected to the PostgreSQL database.
+2025-01-31 16:08:42,818 - INFO - ✅ Table 'telegram_messages' created successfully.
+2025-01-31 16:09:32,211 - ERROR - ❌ Error inserting data: 'message_id'
+2025-01-31 16:11:16,827 - ERROR - ❌ Error inserting data: 'message_id'
+2025-01-31 16:13:45,132 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 16:13:45,142 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 16:13:45,145 - INFO - ✅ Text columns standardized.
+2025-01-31 16:13:45,151 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 16:13:45,155 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-01-31 16:13:45,161 - INFO - ✅ Data cleaning completed successfully.
+2025-01-31 16:13:56,044 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-01-31 16:13:59,906 - INFO - ✅ Successfully connected to the PostgreSQL database.
+2025-01-31 16:14:02,596 - INFO - ✅ Table 'telegram_messages' created successfully.
+2025-01-31 16:14:21,435 - INFO - Inserting: 1102021238 - 2023-12-18 17:04:02+00:00
+2025-01-31 16:14:21,436 - ERROR - ❌ Error inserting data: 'media_path'
+2025-01-31 16:15:35,878 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 16:15:35,885 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 16:15:35,894 - INFO - ✅ Text columns standardized.
+2025-01-31 16:15:35,897 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 16:15:35,900 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-01-31 16:15:35,903 - INFO - ✅ Data cleaning completed successfully.
+2025-01-31 16:15:45,741 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-01-31 16:15:49,724 - INFO - ✅ Successfully connected to the PostgreSQL database.
+2025-01-31 16:15:52,839 - INFO - ✅ Table 'telegram_messages' created successfully.
+2025-01-31 16:16:05,158 - INFO - Inserting: 1102021238 - 2023-12-18 17:04:02+00:00
+2025-01-31 16:16:05,170 - INFO - Inserting: 1666492664 - 2025-01-31 05:30:28+00:00
+2025-01-31 16:16:05,174 - INFO - Inserting: 1447066276 - 2025-01-22 09:50:47+00:00
+2025-01-31 16:16:05,178 - INFO - Inserting: 1432982009 - 2025-01-30 12:42:18+00:00
+2025-01-31 16:16:05,181 - INFO - ✅ 4 records inserted into PostgreSQL database.
