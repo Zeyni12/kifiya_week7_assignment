@@ -1,0 +1,6 @@
+2025-01-31 10:57:26,977 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 10:57:27,013 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 10:57:27,020 - ERROR - ❌ Data cleaning error: 'Media Path'
+2025-01-31 11:01:23,952 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 11:01:23,978 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 11:01:23,984 - ERROR - ❌ Data cleaning error: 'Media Path'
